@@ -1,0 +1,11 @@
+ 
+ .home1{
+    
+    height:466px;
+     display:flex;
+      justify-content: center;
+      align-items: center;
+ }
+ .g_logo{
+   width: 25px;
+ }
